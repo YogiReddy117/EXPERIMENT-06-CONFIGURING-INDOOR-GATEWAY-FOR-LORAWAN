@@ -84,8 +84,8 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
-![output](out2.png )
-![output](out1.png )
+![output](out2.jpeg )
+![output](out1.jpeg )
 
 
 ## Results: 
